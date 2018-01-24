@@ -7,3 +7,5 @@ E-posta veya farklı sosyal medya kanallarından(twitter, slack vb) gelen sorula
 - Sorunuza daha önce yanıt verilmediğinden emin olun.
 - Basit bir başlık ve açıklama kullanın.
 - Kibar ve nazik bir üslup kullanın.
+
+[👉 Soru Sor](https://github.com/oguzzkilic/ama/issues/new)
